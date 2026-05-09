@@ -12,7 +12,7 @@ from reportlab.graphics.shapes import Drawing, Wedge, String
 from reportlab.graphics import renderPDF
 import math
 
-SIRKET_ADI = "Cassandra"
+SIRKET_ADI = ""
 MODEL      = "llama3.2"
 
 # Renkler
